@@ -1,4 +1,4 @@
-![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=임재영입니다&fontAlign=50)
+![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=성장하는%20개발자%20임재영%20입니다&fontAlign=50&fontSize=40&textBg=false&fontAlignY=51&section=header)
 <!--
 **asklas/asklas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
