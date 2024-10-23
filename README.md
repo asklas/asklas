@@ -2,6 +2,9 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jyjy0372)](https://solved.ac/jyjy0372)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asklas&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asklas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **asklas/asklas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
