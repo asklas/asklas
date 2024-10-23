@@ -1,4 +1,4 @@
-![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=성장하는%20개발자%20임재영%20입니다&fontAlign=50&fontSize=40&textBg=false&fontAlignY=51&section=header)
+![헤더](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hi%20!&fontSize=30&fontAlign=50&fontAlignY=50&textBg=false&desc=The%20greatest%20despair%20is%20the%20gap%20between%20who%20I%20could%20be%20and%20who%20I%20am&descAlignY=83&descAlign=60&descSize=20)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jyjy0372)](https://solved.ac/jyjy0372)
